@@ -1,0 +1,59 @@
+{
+    "album": {
+        "ID": "some-id",
+        "title": "A for Arjan",
+        "link": "link-to-album"
+    },
+    "artists": [
+        {
+            "name": "Arjan Dhillon",
+            "tags": [
+                "Lyricist",
+                "Composer",
+                "Vocalist"
+            ]
+        },
+        {
+            "name": "Arsh Heer",
+            "tags": [
+                "Music Producer"
+            ]
+        }
+    ],
+    "disk_number": 1,
+    "duration": 278,
+    "explicit": false,
+    "genre": "Punjabi Romance",
+    "label": "Brown Studios",
+    "language": "pa",
+    "ID": "some-id",
+    "ISRC": "",
+    "release_date": "2022-11-25",
+    "sections": [
+        {
+            "type": "verse",
+            "lyrics": [
+                {
+                    "background_vocals": false,
+                    "text": "ਕੁੜੀ ਹੱਸਦੀਆਂ ਅੱਖਾਂ ਵਾਲ਼ੀ ਸੀ",
+                    "time": {
+                        "start": 15.75,
+                        "end": 16.90
+                    }
+                },
+                {
+                    "background_vocals": false,
+                    "text": "ਉਹਦੀ ਤੋਰ ਪੈਰਾਂ ਤੋਂ ਕਾਹਲ਼ੀ ਸੀ",
+                    "time": {
+                        "start": 17,
+                        "end": 17.50
+                    }
+                }
+            ]
+        }
+    ],
+    "title": "Reshmi Rumal",
+    "track_number": 9,
+    "year": 2022,
+    "youtube_url": "https://www.youtube.com/watch?v=aWzkOgo_pq4"
+}
